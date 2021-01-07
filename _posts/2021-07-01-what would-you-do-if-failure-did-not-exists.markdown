@@ -1,0 +1,32 @@
+---
+layout: post
+title:  What would you do if you knew you couldn’t fail?
+date:   2021-07-01 15:01:35 +0300
+image:  'https://images.unsplash.com/photo-1558169528-3430bc2f7f25?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80'
+tags:   Money
+---
+
+So today I was going through the Instagram stories of the few people I follow and one of them asked the following question:
+
+>What would you do if you knew you could **NOT FAIL**?
+
+I love that question. 
+
+It's a question that most people will avoid answering, but I encourage you to really think about what you would do if you knew you could not fail. 
+
+I have huge **ambition**, big dreams, and I am working steadily to make those a reality.
+The reason why most people are unhappy and are not achieving anything is just the mere result of them not establishing any goals.
+
+Start thinking about what you want. If you do this correctly and listen to all the great information that I will be making available weekly, you will be astonished by the result you get. 
+
+Follow my articles closely, implement what is being said here, and you **will** reap the **rewards** of it. 
+If you keep thinking small you'll end up being a failure. Start imagining.
+
+Do it now.
+
+If you would like some help on this topic, or a kickstart, you can listen to [this YouTube](https://youtu.be/NbBHR_CD56M) recording. 
+<iframe src="https://www.youtube.com/embed/NbBHR_CD56M" frameborder="0" allowfullscreen></iframe>
+
+Listen to it daily, until you don't want to stop any more. It has helped me greatly, and will do so for you, if you are ready.
+
+Also go ahead and subscribe to my newsletter, and I'll send you a template where you can start writing down your goals, so you can **read** them **daily**.
