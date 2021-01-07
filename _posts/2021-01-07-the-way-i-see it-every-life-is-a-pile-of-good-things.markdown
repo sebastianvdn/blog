@@ -1,15 +1,10 @@
-
-**README**
-
-**Notes** are internal and saved automatically.
-You can export a **note** to a regular **file** with the **Save button**.
-**Files** can be **encrypted** with the **Lock button**.
-
-
-
-## Title
-### Subtiles
-
+---
+layout: post
+title:  Example
+date:   2018-11-13 15:01:35 +0300
+image:  '/images/01-1.jpg'
+tags:   Lifestyle
+---
 **consectetur adipiscing elit**
 Lorem ~~ipsum~~ dolor sit amet, *consectetur* adipiscing elit, sed do ~~eiusmod~~ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ieofjoeifjeiofje
 
