@@ -2,5 +2,5 @@
 layout: tag_page
 title: "Tag: Learning"
 tag: Learning
-image: '/images/money.png'
+image: '/images/learn.png'
 ---

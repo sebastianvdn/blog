@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Learning"
-tag: Learning
+title: "Tag: Life"
+tag: Life
 image: '/images/life.png'
 ---
