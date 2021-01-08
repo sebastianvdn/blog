@@ -5,7 +5,7 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
-  <meta property="og:image" content="{% if page.image %}{% unless page.title contains 'https' %}{{ site.url }}{% endunless %}{{ page.image }}{% endif %}">
+  <meta property="og:image" content="{% if page.image %}{% unless page.image contains 'https' %}{{ site.url }}{% endunless %}{{ page.image }}{% endif %}">
 
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
