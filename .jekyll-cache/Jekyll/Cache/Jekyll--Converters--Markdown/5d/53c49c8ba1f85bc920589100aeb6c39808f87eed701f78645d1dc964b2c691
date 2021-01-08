@@ -1,5 +1,4 @@
-I"ý
-<p><strong>consectetur adipiscing elit</strong>
+I"C<p><strong>consectetur adipiscing elit</strong>
 Lorem <del>ipsum</del> dolor sit amet, <em>consectetur</em> adipiscing elit, sed do <del>eiusmod</del> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ieofjoeifjeiofje</p>
 
 <h2 id="code">Code</h2>
@@ -65,4 +64,5 @@ Lorem <del>ipsum</del> dolor sit amet, <em>consectetur</em> adipiscing elit, sed
 
 <p>Like links, Images also have a footnote style syntax</p>
 
+<p><img src="/images/cta-template.gif" alt="Enjoy the freedom" /></p>
 :ET
