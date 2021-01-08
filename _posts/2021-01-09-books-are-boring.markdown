@@ -78,7 +78,7 @@ Anyway, it was about books. This brings me to the next thing I implemented:
 
 ### Read what you love, until you love to read
 
-This one might sound logic and sh** but you would be amazed by how much people want to start reading but don't pick the right book.
+This one might sound logic and sh** but you would be amazed by how many people want to start reading but don't pick the right book.
 
 When I started with my journey on growing as a human being, I got the book [*think and grow rich*](https://amzn.to/3s1IVYV) *by Napoleon Hill*. (Thanks sis)
 ![enter image description here](https://lifeskills.ge/wp-content/uploads/2019/08/Think-and-Rich-Rich-1024x512.png)
