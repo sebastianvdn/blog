@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://sebastianvdn.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sebastianvdn.github.io/" rel="alternate" type="text/html" /><updated>2021-01-08T09:42:20+01:00</updated><id>https://sebastianvdn.github.io/feed.xml</id><title type="html">Sebastian Van Den Noorgaete</title><subtitle>Changing for the good.</subtitle><author><name>Sebastian</name></author><entry><title type="html">Example</title><link href="https://sebastianvdn.github.io/2018/11/13/test2/" rel="alternate" type="text/html" title="Example" /><published>2018-11-13T13:01:35+01:00</published><updated>2018-11-13T13:01:35+01:00</updated><id>https://sebastianvdn.github.io/2018/11/13/test2</id><content type="html" xml:base="https://sebastianvdn.github.io/2018/11/13/test2/">&lt;p&gt;&lt;strong&gt;consectetur adipiscing elit&lt;/strong&gt;
+Lorem &lt;del&gt;ipsum&lt;/del&gt; dolor sit amet, &lt;em&gt;consectetur&lt;/em&gt; adipiscing elit, sed do &lt;del&gt;eiusmod&lt;/del&gt; tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ieofjoeifjeiofje&lt;/p&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;const inline = &quot;Hello world&quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Syntax highlighting&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;p&gt;| Option | Description |
+| —— | ———– |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |&lt;/p&gt;
+&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
+
+&lt;p&gt;Unordered&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a list by starting a line with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&lt;/code&gt;, or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Sub-lists are made by indenting 2 spaces:
+    &lt;ul&gt;
+      &lt;li&gt;Marker character change forces new list start:
+        &lt;ul&gt;
+          &lt;li&gt;Ac tristique libero volutpat at&lt;/li&gt;
+          &lt;li&gt;Facilisis in pretium nisl aliquet&lt;/li&gt;
+          &lt;li&gt;Nulla volutpat aliquam velit&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Very easy!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;voluptate velit esse&lt;/li&gt;
+  &lt;li&gt;dolor sit amet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://znote.lagrede.fr&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://znote.lagrede.fr&quot; title=&quot;title text!&quot;&gt;link with title&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://octodex.github.com/images/droidtocat.png&quot; alt=&quot;Droidtocat&quot; title=&quot;The Droidtocat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Like links, Images also have a footnote style syntax&lt;/p&gt;</content><author><name>Sebastian</name></author><category term="Money" /><summary type="html">consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ieofjoeifjeiofje</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sebastianvdn.github.io/images/01-1.jpg" /><media:content medium="image" url="https://sebastianvdn.github.io/images/01-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example</title><link href="https://sebastianvdn.github.io/2018/11/13/test/" rel="alternate" type="text/html" title="Example" /><published>2018-11-13T13:01:35+01:00</published><updated>2018-11-13T13:01:35+01:00</updated><id>https://sebastianvdn.github.io/2018/11/13/test</id><content type="html" xml:base="https://sebastianvdn.github.io/2018/11/13/test/">&lt;p&gt;Still, she’s got a lot of spirit. I don’t know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-care-so-what-do-you-think-of-her-han&quot;&gt;I care. So, what do you think of her, Han?&lt;/h3&gt;
+&lt;p&gt;I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. You are a part of the Rebel Alliance and a traitor! Take her away! Your eyes can deceive you. Don’t trust them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/1-4.jpg&quot; alt=&quot;Enjoy the freedom&quot; /&gt;
+&lt;em&gt;Enjoy the freedom&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don’t be too proud of this technological terror you’ve constructed. The ability to destroy a planet is insignificant next to the power of the Force.&lt;/p&gt;
+
+&lt;p&gt;Obi-Wan is here. The Force is with him. Partially, but it also obeys your commands. I call it luck. I’m trying not to, kid. Alderaan? I’m not going to Alderaan. I’ve got to go home. It’s late, I’m in for it as it is.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/1-1.jpg&quot; alt=&quot;My best motorcycle&quot; /&gt;
+&lt;em&gt;My best motorcycle&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!&lt;/li&gt;
+  &lt;li&gt;Remember, a Jedi can feel the Force flowing through him.&lt;/li&gt;
+  &lt;li&gt;I want to come with you to Alderaan. There’s nothing for me here now. I want to learn the ways of the Force and be a Jedi, like my father before me.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Hey, Luke! May the Force be with you. What?! Partially, but it also obeys your commands. Don’t be too proud of this technological terror you’ve constructed. The ability to destroy a planet is insignificant next to the power of the Force.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
+
+  &lt;p&gt;&lt;cite&gt;George Bernard Shaw&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!&lt;/p&gt;
+
+&lt;p&gt;I need your help, Luke. She needs your help. I’m getting too old for this sort of thing. Escape is not his plan. I must face him, alone. Hokey religions and ancient weapons are no match for a good blaster at your side, kid.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/hfsaDwY3ePE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Obi-Wan is here. The Force is with him.&lt;/p&gt;
+
+&lt;p&gt;Don’t be too proud of this technological terror you’ve constructed. The ability to destroy a planet is insignificant next to the power of the Force. Your eyes can deceive you. Don’t trust them. What?! I don’t know what you’re talking about. I am a member of the Imperial Senate on a diplomatic&lt;/p&gt;</content><author><name>Sebastian</name></author><category term="Money" /><summary type="html">Still, she’s got a lot of spirit. I don’t know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sebastianvdn.github.io/images/01-1.jpg" /><media:content medium="image" url="https://sebastianvdn.github.io/images/01-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example</title><link href="https://sebastianvdn.github.io/2018/11/13/test3/" rel="alternate" type="text/html" title="Example" /><published>2018-11-13T13:01:35+01:00</published><updated>2018-11-13T13:01:35+01:00</updated><id>https://sebastianvdn.github.io/2018/11/13/test3</id><content type="html" xml:base="https://sebastianvdn.github.io/2018/11/13/test3/">&lt;p&gt;Still, she’s got a lot of spirit. I don’t know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-care-so-what-do-you-think-of-her-han&quot;&gt;I care. So, what do you think of her, Han?&lt;/h3&gt;
+&lt;p&gt;I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. You are a part of the Rebel Alliance and a traitor! Take her away! Your eyes can deceive you. Don’t trust them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/1-4.jpg&quot; alt=&quot;Enjoy the freedom&quot; /&gt;
+&lt;em&gt;Enjoy the freedom&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don’t be too proud of this technological terror you’ve constructed. The ability to destroy a planet is insignificant next to the power of the Force.&lt;/p&gt;
+
+&lt;p&gt;Obi-Wan is here. The Force is with him. Partially, but it also obeys your commands. I call it luck. I’m trying not to, kid. Alderaan? I’m not going to Alderaan. I’ve got to go home. It’s late, I’m in for it as it is.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/1-1.jpg&quot; alt=&quot;My best motorcycle&quot; /&gt;
+&lt;em&gt;My best motorcycle&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!&lt;/li&gt;
+  &lt;li&gt;Remember, a Jedi can feel the Force flowing through him.&lt;/li&gt;
+  &lt;li&gt;I want to come with you to Alderaan. There’s nothing for me here now. I want to learn the ways of the Force and be a Jedi, like my father before me.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Hey, Luke! May the Force be with you. What?! Partially, but it also obeys your commands. Don’t be too proud of this technological terror you’ve constructed. The ability to destroy a planet is insignificant next to the power of the Force.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!&lt;/p&gt;
+
+  &lt;p&gt;&lt;cite&gt;George Bernard Shaw&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!&lt;/p&gt;
+
+&lt;p&gt;I need your help, Luke. She needs your help. I’m getting too old for this sort of thing. Escape is not his plan. I must face him, alone. Hokey religions and ancient weapons are no match for a good blaster at your side, kid.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/hfsaDwY3ePE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Obi-Wan is here. The Force is with him.&lt;/p&gt;
+
+&lt;p&gt;Don’t be too proud of this technological terror you’ve constructed. The ability to destroy a planet is insignificant next to the power of the Force. Your eyes can deceive you. Don’t trust them. What?! I don’t know what you’re talking about. I am a member of the Imperial Senate on a diplomatic&lt;/p&gt;</content><author><name>Sebastian</name></author><category term="Money" /><summary type="html">Still, she’s got a lot of spirit. I don’t know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sebastianvdn.github.io/images/01-1.jpg" /><media:content medium="image" url="https://sebastianvdn.github.io/images/01-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
