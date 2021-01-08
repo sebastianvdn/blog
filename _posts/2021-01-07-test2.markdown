@@ -65,4 +65,4 @@ Unordered
 
 Like links, Images also have a footnote style syntax
 
-![Enjoy the freedom]({{site.baseurl}}/images/cta-template.gif)
+[![Take action, do it]({{site.baseurl}}/images/cta-template.gif)](https://drive.google.com/file/d/1zr-zbHxz5egznxDSAYjwg4ecboSwfpxq/view?usp=sharing)
